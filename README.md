@@ -9,7 +9,7 @@
   <img src="https://github.com/VladyslavTitorov/VladyslavTitorov/blob/master/divider1.png" alt="divider"/>
 </div>
 
-<h3 align="center"><img src="https://github.com/VladyslavTitorov/VladyslavTitorov/blob/master/code.gif" height="20"/> My skill set</h3>
+<h3 align="center"><img src="https://github.com/VladyslavTitorov/VladyslavTitorov/blob/master/code.gif" height="20"/> My skill sets</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
