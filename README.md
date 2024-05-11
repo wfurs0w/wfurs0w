@@ -12,6 +12,7 @@ Welcome to my page!
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/logo-angular-red?logo=angular&logoColor=white&label="></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-RxJs-DA3787)?logo=rxjs&logoColor=white&label="></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Redux-593D88?&logo=redux&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white"></a>
