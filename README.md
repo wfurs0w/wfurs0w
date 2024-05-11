@@ -1,132 +1,57 @@
-<h1 align="center">
-  Hello, everybody!
-</h1>
-<h2 align="center">
-  I am a Full stack & Blockchain developer!
-</h2>
+## Hi there 👋
 
-<div align="center">
-  <img src="https://github.com/VladyslavTitorov/VladyslavTitorov/blob/master/divider1.png" alt="divider"/>
-</div>
+Welcome to my page!
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Volodymyr%20Fursov;Full-Stack%20Developer;2%2B%20years%20of%20experience&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
-<h3 align="center"><img src="https://github.com/VladyslavTitorov/VladyslavTitorov/blob/master/code.gif" height="20"/> My skill sets</h3>
+### 👍 SKILLS 
 
-<div align="center" style="witdh:100%"> 
-  <table>
-    <tr>
-      <td valign="center" width="100px"><b>Frontend<b></td>
-      <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>Dev<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/HTML-blue" /> 
-        <img src="https://img.shields.io/badge/CSS-blue" />
-        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
-        <img src="https://img.shields.io/badge/TypeScript-blue" />
-        <img src="https://img.shields.io/badge/React-blue" /> 
-        <img src="https://img.shields.io/badge/Vue-blue" /> 
-        <img src="https://img.shields.io/badge/Angular-blue" /> 
-        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
-        <img src="https://img.shields.io/badge/Tailwind-blue" /> 
-        <img src="https://img.shields.io/badge/Next-blue" /> 
-        <img src="https://img.shields.io/badge/Nuxt-blue" /> 
-        <img src="https://img.shields.io/badge/Shopify-blue" /> 
-        <img src="https://img.shields.io/badge/Chart.js-blue" />
-      </td>      
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Django-blue" /> 
-        <img src="https://img.shields.io/badge/Python-blue" /> 
-        <img src="https://img.shields.io/badge/Selenium-blue" />        
-        <img src="https://img.shields.io/badge/Ruby-blue" /> 
-        <img src="https://img.shields.io/badge/Rails-blue" /> 
-        <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
-        <img src="https://img.shields.io/badge/Pandas-blue" /> 
-        <img src="https://img.shields.io/badge/Numpy-blue" /> 
-        <img src="https://img.shields.io/badge/Flask-blue" /> 
-        <img src="https://img.shields.io/badge/PHP-blue" /> 
-        <img src="https://img.shields.io/badge/Laravel-blue" /> 
-        <img src="https://img.shields.io/badge/Node.js-blue" /> 
-        <img src="https://img.shields.io/badge/Express-blue" /> 
-        <img src="https://img.shields.io/badge/Nest.js-blue" /> 
-      </td>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/AWS-blue" /> 
-        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
-        <img src="https://img.shields.io/badge/Docker-blue" /> 
-        <img src="https://img.shields.io/badge/TDD-blue" /> 
-        <img src="https://img.shields.io/badge/Jira-blue" /> 
-        <img src="https://img.shields.io/badge/Tezos-blue" /> 
-        <img src="https://img.shields.io/badge/MySQL-blue" /> 
-        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
-        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
-      </td>
-    </tr>
-  </table>
-  
- <table>
-    <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
-      <td valign="center" width="100px"><b>Design<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solidity-blue" /> 
-        <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solana-blue" /> 
-        <img src="https://img.shields.io/badge/Golang-blue" /> 
-        <img src="https://img.shields.io/badge/Rust-blue" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-blue" />
-      </td>
-     <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Photoshop-blue" /> 
-       <img src="https://img.shields.io/badge/Adobe XD-blue" /> 
-       <img src="https://img.shields.io/badge/Figma-blue" /> 
-       <img src="https://img.shields.io/badge/Blender-blue" /> 
-       <img src="https://img.shields.io/badge/WebGL-blue" /> 
-       <img src="https://img.shields.io/badge/Three.js-blue" /> 
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github.com/VladyslavTitorov/VladyslavTitorov/blob/master/divider2.png" alt="divider"/>
-</div> 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/VladyslavTitorov/VladyslavTitorov/blob/master/divider2.png" alt="divider"/>
-</div>    
-<div align="center">
-  <img src="https://github.com/VladyslavTitorov/VladyslavTitorov/blob/master/portfolio.png" alt="Portfolio"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/VladyslavTitorov/VladyslavTitorov/blob/master/divider1.png" alt="divider"/>
-</div>
-
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=naruhitokaide&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+> Client-Side
+<p>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/logo-angular-red?logo=angular&logoColor=white&label="></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Redux-593D88?&logo=redux&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/next%20js-000000?&logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Material%20UI-007FFF?&logo=mui&logoColor=white"></a>
 </p>
 
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/naruhitokaide" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:vladupwork66@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/naruhitokaide" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+> Server-Side
+<p>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Node%20js-339933?&logo=nodedotjs&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Express%20js-000000?&logo=express&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/firebase-ffca28?&logo=firebase&logoColor=black"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Socket.io-010101?&&logo=Socket.io&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/PostgreSQL-316192?&logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Google_Cloud-4285F4?&logo=google-cloud&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Vercel-000000?&logo=vercel&logoColor=white"></a>
+</p>
 
-</p> -->
+> DevToolKit
+<p>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Visual_Studio-5C2D91?&logo=visual%20studio&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Jira-0052CC?&logo=Jira&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Trello-0052CC?&logo=trello&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white"></a>
+</p>
+
+### 🌱 Responsibilities
+
+- Full stack developer across frontend and backend, Develop full project from wireframe with great code.
+- Well-Structured and maintainable application development based on flexible workflow.
+- Always keep product thinking with responsibility.
+- Passionate Self-Studying, Fast Learner.
+- Good team-worker.
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
